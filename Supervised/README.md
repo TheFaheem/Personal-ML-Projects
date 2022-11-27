@@ -1,1 +1,1 @@
-This Repositories Contain Supervised Machine Learning Projects
+This Directory Contain Supervised Machine Learning Projects
